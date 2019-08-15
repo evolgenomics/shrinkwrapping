@@ -1,0 +1,1 @@
+"C:\Program Files\Amira-2019.2\bin\arch-Win64VC12-Optimize\Amira.exe" -tclcmd "set ::param C0006548 ; source baculae_segment_surfaceGen.hx"
